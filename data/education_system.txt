@@ -1,0 +1,36 @@
+Indian Education System:
+- Managed by Ministry of Education
+
+Structure:
+- Primary (1-5)
+- Upper Primary (6-8)
+- Secondary (9-10)
+- Higher Secondary (11-12)
+- Higher Education (College, University)
+
+Types of Boards:
+- CBSE
+- ICSE
+- State Boards
+
+Major Exams:
+- JEE Main & Advanced (Engineering)
+- NEET (Medical)
+- UPSC CSE
+- GATE
+- CAT
+
+IITs:
+- Top engineering institutes
+- 23 IITs across India
+
+NITs:
+- 31 NITs offering engineering programs
+
+Scholarships:
+- PM Scholarship Scheme
+- National Means cum Merit
+
+New Education Policy (NEP 2020):
+- 5+3+3+4 education structure
+- Focus on skill development & coding

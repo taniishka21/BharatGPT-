@@ -1,0 +1,34 @@
+Chandrayaan-1 (2008):
+- India’s first lunar mission
+- Discovered water molecules on the Moon
+
+Chandrayaan-2 (2019):
+- Orbiter + Vikram Lander + Pragyan Rover
+- Orbiter still functioning
+
+Chandrayaan-3 (2023):
+- India became the first country to land on Moon’s South Pole
+- Lander: Vikram, Rover: Pragyan
+
+Mangalyaan / Mars Orbiter Mission (2013):
+- India became the first Asian country to reach Mars orbit
+- Achieved in the first attempt
+
+Aditya-L1 (2023):
+- India’s first mission to study the Sun
+- Positioned at Lagrange point L1
+
+Gaganyaan (Upcoming):
+- India’s first human space flight mission
+- Astronauts (Vyomnauts) selected & training underway
+
+PSLV (Polar Satellite Launch Vehicle):
+- ISRO’s most reliable rocket
+- Famous for cost-effective multiple satellite launches
+
+GSLV Mk-III (LVM-3):
+- Heavy lift launch vehicle
+- Used for Chandrayaan-2 and 3
+
+Astrosat:
+- India’s first dedicated astronomy space observatory
