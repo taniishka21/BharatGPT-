@@ -66,8 +66,8 @@ bharatgpt/
 ### **1. Clone the repository**
 
 ```
-git clone https://github.com/your-username/bharatgpt.git
-cd bharatgpt
+git clone https://github.com/taniishka21/BharatGPT-.git
+cd BharatGPT-
 ```
 
 ### **2. Create Virtual Environment**
